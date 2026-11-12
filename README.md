@@ -1,20 +1,52 @@
+
+<div align="center">
+
 # Hey there! 👋
 
-Mechanical engineering student exploring programming, computational methods, and software development.
+### Mechanical Engineering × Software Development
 
-### 🔭 Interests
-- C++ programming and software development
-- Engineering simulations and numerical methods
-- Aerospace systems and UAV development
-- Linux and open-source software
+Exploring programming, computational methods, and engineering simulations.
 
-### 🌱 Currently Learning
-- Modern C++
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="75" alt="C++ Logo"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="75" alt="Linux Logo"/>
+
+<br><br>
+
+![C++](https://img.shields.io/badge/C++-Learning-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Exploring-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 🛠️ About Me
+
+I'm a mechanical engineering student interested in combining engineering principles with software development to build useful tools and simulations.
+
+### 🚀 Areas of Interest
+
+- **C++ Development** — Programming, algorithms, and numerical methods
+- **Linux** — Development environments and open-source software
+
+### 📚 Currently Learning
+
+- Modern C++ and object-oriented programming
 - Data structures and algorithms
-- Git, GitHub, and Linux development workflows
+- Git and GitHub workflows
+- Linux command-line development
 
 ### 🤝 Collaboration
-Open to collaborating on C++ projects, particularly those involving scientific computing, engineering applications, and simulation tools.
 
-### ⚡ A Little About Me
-I enjoy combining mechanical engineering with programming to better understand, model, and solve technical problems.
+Interested in collaborating on C++ projects, particularly those involving scientific computing, engineering applications, and simulation.
+
+---
+
+<div align="center">
+
+*Always learning. Always building.*
+
+</div>
