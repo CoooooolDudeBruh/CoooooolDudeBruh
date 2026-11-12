@@ -9,13 +9,6 @@ Exploring programming, computational methods, and engineering simulations.
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="75" alt="C++ Logo"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="75" alt="Linux Logo"/>
-
-<br><br>
-
-
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="80" alt="C++ Logo"/>
