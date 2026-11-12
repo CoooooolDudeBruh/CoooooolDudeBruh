@@ -15,9 +15,16 @@ Exploring programming, computational methods, and engineering simulations.
 
 <br><br>
 
-![C++](https://img.shields.io/badge/C++-Learning-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Exploring-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="80" alt="C++ Logo"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="80" alt="Linux Logo"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="80" alt="Git Logo"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" height="80" alt="Visual Studio Logo"/>
 
 </div>
 
